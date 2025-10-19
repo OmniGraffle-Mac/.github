@@ -1,7 +1,7 @@
 # OmniGraffle – Professional Diagramming & Design Tool
 
 <div align="center">  
-<img src="https://www.omnigroup.com/images/blog_images/omnigraffle_enterprise_icon.png" alt="OmniGraffle Mac Logo" width="200">  
+<img src="https://www.omnigroup.com/images/blog_images/omnigraffle_enterprise_icon.png" alt="OmniGraffle Mac Logo" width="800">  
 </div>  
 
 <div align="center">  
